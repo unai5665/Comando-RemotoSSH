@@ -10,4 +10,5 @@ Este proyecto en Java permite realizar conexiones SSH a un servidor remoto y eje
 Descripción
 El código consiste en una clase principal (ComandoSSH) que se conecta a un servidor remoto a través de SSH usando el usuario y la contraseña proporcionados. Luego ejecuta un comando en el servidor, captura su salida y la muestra en la consola.
 
-El proceso de conexión y ejecución de comandos está encapsulado en la clase SSHConnector.
+
+
